@@ -24,3 +24,4 @@ function buscar_personas(){
     }
     ajax.send(param);
 }
+console.log("Holi");
